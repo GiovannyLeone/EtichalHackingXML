@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EthicalHackingXML</string>
+    <string-array name="avatar_array">
+        <item>Ghost</item>
+        <item>Frank</item>
+        <item>Dead</item>
+        <item>Vamp</item>
+        <item>Whitch</item>
+    </string-array>
+</resources>
